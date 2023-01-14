@@ -1,2 +1,9 @@
 Hi,
 My name is Sanjeev Mishra
+
+git init
+git add .
+git commit -m "message"
+git branch -M main
+git remote add origin url
+git push -u origin main
